@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamdani Ibrahim</h1>
 <h3 align="center">Front-End React Developer from Algeria</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimn9&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimn9" /> </p>
 
@@ -30,3 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimn9&show_icons=true&locale=en&layout=compact" alt="ibrahimn9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimn9&show_icons=true&locale=en" alt="ibrahimn9" /></p>
+
