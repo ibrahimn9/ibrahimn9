@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamdani Ibrahim</h1>
 <h3 align="center">Front-End React Developer from Algeria</h3>
+<iframe src="https://giphy.com/embed/DLz5I4BGyRSOlbSC3o" width="398" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-software-programming-DLz5I4BGyRSOlbSC3o">via GIPHY</a></p>
 
 
 - 🌱 I’m currently learning **React Native**
