@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://ibrahim-dev.netlify.app/](https://ibrahim-dev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ibrahim-dev.netlify.app/](https://ibra-dev.netlify.app/)
 
 - 📫 How to reach me **hamdaniibrahim.contact@gmail.com**
 
